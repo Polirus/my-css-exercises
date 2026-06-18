@@ -1,1 +1,9 @@
 /* Add CSS Styling */
+.goofy {
+    background-color: lightpink;
+    font-family: "Verdana", "Dejavu Sans", sans-serif;
+}
+
+.scooby {
+    font-size: 24px;
+}
