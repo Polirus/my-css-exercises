@@ -24,3 +24,18 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+body {
+  text-align: center;
+}
+
+.info {
+  display: flex;
+  margin-top: 32px;
+  gap: 52px;
+  justify-content: center;
+}
+
+.card {
+  max-width: 200px;
+}
